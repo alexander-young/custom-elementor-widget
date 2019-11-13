@@ -1,0 +1,23 @@
+.advertisement__label-heading {
+    padding: .5rem 1.25rem;
+    background-color: #03657f;
+    color: #fff;
+    width: 100%;
+    font-weight: 800;
+    font-size: 1.5rem;
+    border-top-left-radius: .75rem;
+    border-top-right-radius: .75rem;
+}
+
+.advertisement__content__heading {
+    font-weight: 500;
+    font-size: 2.5rem;
+    margin-bottom: 1.25rem;
+}
+
+.advertisement__content {
+    padding: 1rem;
+    background-color: #fff;
+    color: #6d6d6d;
+    font-size: 2rem;
+}
